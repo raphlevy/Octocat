@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+get someone else's repository from Github. This process is called "cloning" because the command that does this is git clone
