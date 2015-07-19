@@ -1,1 +1,1 @@
-Explain what a branch is, in your own words
+Branches in Git are incredibly lightweight as well. They are simply pointers to a specific commit -- nothing more.
